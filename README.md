@@ -1,3 +1,5 @@
 # sumofnumbers
 ic3 314 javascript
-Rx performance
+AV performance
+20 minutes
+first attempt
